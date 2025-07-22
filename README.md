@@ -9,7 +9,7 @@
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="mailto:madhava.yourmail@example.com">
+  <a href="mailto:madhavak1708@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/madhava">
@@ -39,7 +39,7 @@
 
 ## 📁 Featured Projects
 
-### 🚀 [Project Name Here](https://github.com/Madhavak1708/your-project-link)
+### 🚀 [OD MANAGEMENT SYSTEM](https://github.com/Madhavak1708/Od)
 Brief description of the project goes here.  
 🔸 Tech: Java • Spring Boot • MySQL • React
 
