@@ -40,8 +40,8 @@
 ## 📁 Featured Projects
 
 ### 🚀 [OD MANAGEMENT SYSTEM](https://github.com/Madhavak1708/Od-Management-Sys)
-Role-based OD request portal for students, staff & HODs.  
-🔸 Tech: PHP • Apache • MySQL 
+Brief description of the project goes here.  
+🔸 Tech: Php • Apache • MySQL 
 
 ---
 
@@ -55,13 +55,13 @@ Role-based OD request portal for students, staff & HODs.
 
 ## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/madhavak1708?theme=dark&font=Baloo+Bhai&ext=heatmap" width="60%" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/madhavak17?theme=dark&font=Baloo+Bhai&ext=heatmap" width="60%" alt="LeetCode Stats"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhavak17&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Madhavak1708&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
 </p>
 
 ---
