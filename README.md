@@ -41,11 +41,8 @@
 
 ### 🚀 [OD MANAGEMENT SYSTEM](https://github.com/Madhavak1708/Od-Management-Sys)
 Brief description of the project goes here.  
-🔸 Tech: Java • Spring Boot • MySQL • React
+🔸 Tech: Php • Apache • MySQL 
 
-### 📂 [Another Project](https://github.com/Madhavak1708/another-project-link)
-Description of what the project does or solves.  
-🔸 Tech: Full Stack • Responsive Design • REST APIs
 
 ---
 
